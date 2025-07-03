@@ -42,11 +42,6 @@ This MATLAB-based project simulates a multi-sinusoidal signal, applies signal pr
 ![low pass filter](https://github.com/user-attachments/assets/8f110bca-e608-496c-8d1d-f2b22fe5474c)
 
 
-  
-  
-  
-
-
 ## 📁 Project Structure
 
 📂 matlab-signals-project/
@@ -62,14 +57,6 @@ This MATLAB-based project simulates a multi-sinusoidal signal, applies signal pr
 
 ---
 
-## 📖 References
-
-1. Oppenheim, A. V., Willsky, A. S., & Nawab, S. H. *Signals and Systems*.
-2. Proakis, J. G., & Manolakis, D. G. *Digital Signal Processing*.
-3. Smith, S. W. *The Scientist and Engineer's Guide to DSP*.
-4. Bracewell, R. N. *The Fourier Transform and Its Applications*.
-
----
 
 ## 📌 How to Run
 
